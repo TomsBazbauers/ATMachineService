@@ -1,13 +1,4 @@
-﻿using ATMachineService.Machine.Machine;
-using ATMachineService.Machine.Machine.Exceptions;
-using ATMachineService.Machine.Machine.Interfaces;
-using ATMachineService.Machine.Machine.Validations;
-using ATMachineService.Service.Exceptions;
-using ATMachineService.Service.Interfaces;
-using ATMachineService.Service.Models;
-using Moq;
-
-namespace ATMachineService.Tests.ATMachineTests
+﻿namespace ATMachineService.Tests.ATMachineTests
 {
     public class ATMachineTests
     {

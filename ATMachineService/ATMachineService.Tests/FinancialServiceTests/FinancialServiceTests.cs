@@ -1,10 +1,4 @@
-﻿using ATMachineService.Service.Exceptions;
-using ATMachineService.Service.Models;
-using ATMachineService.Service.Validations;
-using ATMService.Service;
-using Moq;
-
-namespace ATMachineService.Tests.FinancialServiceTests
+﻿namespace ATMachineService.Tests.FinancialServiceTests
 {
     public class FinancialServiceTests
     {

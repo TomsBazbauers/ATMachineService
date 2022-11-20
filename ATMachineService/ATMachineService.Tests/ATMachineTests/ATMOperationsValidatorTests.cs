@@ -1,7 +1,4 @@
-﻿using ATMachineService.Machine.Machine.Validations;
-using ATMachineService.Service.Models;
-
-namespace ATMachineService.Tests.ATMachineTests
+﻿namespace ATMachineService.Tests.ATMachineTests
 {
     public class ATMOperationsValidatorTests
     {
