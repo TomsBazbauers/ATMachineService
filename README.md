@@ -4,7 +4,7 @@ An ATM application - update machine status, insert/return card and get cash/acco
 ### Description:
 
 - Built on NET 6.0
-- Unit tested via XUnit and Moq
+- Unit tested via xUnit and Moq
 
 ---
 
