@@ -304,6 +304,11 @@
             Assert.Equal(1, actual.Notes[5]);
             Assert.Equal(1, actual.Notes[10]);
             Assert.Equal(5, actual.Notes[50]);
+            
+            // Assert
+            Assert.Equal(199, _sut.CurrentMachineBalance.Notes[5]);
+            Assert.Equal(199, _sut.CurrentMachineBalance.Notes[10]);
+            Assert.Equal(195, _sut.CurrentMachineBalance.Notes[50]);
         }
     }
 }
