@@ -82,7 +82,6 @@ namespace ATMachineService.Machine.Machine
             if (!_customerValidator.IsMachineBalanceSufficient(amount, _currentMachineBalance.Amount))
             {
                 throw new InsufficientATMBalanceException();
-
             }
 
             if (!_financialService.WithdrawMoney(CurrentCard.CardNumber, amount))
