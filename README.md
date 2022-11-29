@@ -15,7 +15,7 @@ An ATM application - update machine status, insert/return card and get cash/acco
 - **Charge the clients card withdrawal fee *1%***
 - **Keep track of all the money that was charged to the client**
 - **Should be possible for the client to check his balance**
--** Fill ATM machine with cash (*operator* only)**
+- **Fill ATM machine with cash (*operator* only)**
 
 ---
 - Use TDD approach
