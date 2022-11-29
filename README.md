@@ -10,12 +10,12 @@ An ATM application - update machine status, insert/return card and get cash/acco
 
 ### Requirements:
 
-- **Client can withdraw cash only if card is inserted**
-- **Machine allows to withdraw: *5*, *10*, *20*, *50* euro paper notes**
-- **Charge the clients card withdrawal fee *1%***
-- **Keep track of all the money that was charged to the client**
-- **Should be possible for the client to check his balance**
-- **Fill ATM machine with cash (*operator* only)**
+- Client can withdraw cash *only if card is inserted*
+- Machine allows to *withdraw: 5, 10, 20, 50 euro paper notes*
+- Charge the clients card *withdrawal fee 1%*
+- Keep track of all the money that was *charged to the client*
+- Should be possible for the client to *check his balance*
+- Fill ATM machine with cash (*operator only*)
 
 ---
 - Use TDD approach
